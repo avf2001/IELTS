@@ -1,5 +1,4 @@
 # Speaking Part 1 Common Topics List
-* [Home](#home)
 * [Art](#Art)
 * [Birthdays](#Birthdays)
 * [Childhood](#Childhood)
@@ -32,18 +31,6 @@
 | ~~good, bad~~ |               |
 | ~~like~~ | love, enjoy, prefer |
 
-## Home
-* Where is your home?
-* Do you live in a house or a flat
-* Who do you live with?
-* Are there many rooms in your home?
-* What is your favourite room?
-* How are the walls decorated?
-* What would you change about your home?
-* Do you plan to live there in the future?
-* What facilities are there near your home?
-* What is your neighbourhood like?
-* Do most people live in houses in your country?
 ## Art
 * Are you good at art?
 * Did you learn art at school when you were a child?
