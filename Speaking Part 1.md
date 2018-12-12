@@ -2,7 +2,7 @@
 | Don't use     | Use           |
 | ------------- |:-------------:|
 | ~~good, bad~~ |               |
-| ~~I kike to~~ | I have always loved to |
+| ~~like~~ | love, enjoy, prefer |
 ## Work
 * What is your job?
 * Where do you work?
