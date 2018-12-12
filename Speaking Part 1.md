@@ -11,7 +11,7 @@
 * [Daily routine](#Daily-routine)
 * [Dictionaries](#Dictionaries)
 * [Evenings](#Evenings)
-* [Family & Friends](#Family-&-Friends)
+* [Family and Friends](#Family-and-Friends)
 * [Flowers](#Flowers)
 * [Food](#Food)
 * [Going Out](#Going Out)
@@ -133,7 +133,7 @@ Useful video lesson: <a href="http://ieltsliz.com/ielts-speaking-part-1-dictiona
 * Do you ever work or study in the evenings?
 * What is a popular activity for young people in your country in the evenings?
 * Do you do the same thing in the evenings as you did when you were a child?
-## Family & Friends
+## Family and Friends
 * Do you spend much time with your family?
 * Who are you closest to in your family?
 * Do you prefer spending time with your family or friends?
