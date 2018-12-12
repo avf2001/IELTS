@@ -1,8 +1,8 @@
 # Work
-accountable for
-
-the best thing about my job
-
+## Useful words
+* accountable for
+* the best thing about my job
+## Questions
 * What is your job?
 * Where do you work?
 * Why did you choose that job?
