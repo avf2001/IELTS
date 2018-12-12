@@ -56,6 +56,12 @@
 * Have you ever been to an art gallery?
 * Do you think children can benefit from going to art galleries?
 ## Birthdays
+* Do you enjoy your birthdays?
+* Do you usually celebrate your birthday?
+* What did you do on your last birthday?
+* Can you remember a birthday you enjoyed as a child?
+* Do most people celebrate their birthdays with a party in your country?
+* Which birthdays are considered important in your country?
 ## Childhood
 ## Clothes
 ## Computers
@@ -84,14 +90,6 @@
 Main Topics for IELTS Speaking Part 1
 These four topics are the most common in IELTS speaking part 1. You should prepare ideas and practice answering these questions.
 <h1>Common Questions in Speaking Part 1</h1>
-<blockquote><p><strong><span style="text-decoration: underline;">Birthdays</span></strong><br>
-Do you enjoy your birthdays?<br>
-Do you usually celebrate your birthday?<br>
-What did you do on your last birthday?<br>
-Can you remember a birthday you enjoyed as a child?<br>
-Do most people celebrate their birthdays with a party in your country?<br>
-Which birthdays are considered important in your country?</p></blockquote>
-<p>&nbsp;</p>
 <blockquote><p><span style="text-decoration: underline;"><strong>Childhood</strong></span><br>
 Did you enjoy your childhood?<br>
 What is your first memory of your childhood?<br>
