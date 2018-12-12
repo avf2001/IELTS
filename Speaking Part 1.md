@@ -22,7 +22,17 @@
 * If you had the chance, would you change subject?
 * Do you plan to get a job in the same field as your subject?
 ## Hometown
-* Home
+* Where is your hometown?
+* Do you like your hometown?
+* Do you often visit your hometown?
+* What is your hometown like?
+* What is the oldest place in your hometown?
+* What is there for a foreigner to do or see in your hometown?
+* How could your hometown be improved?
+* Has your hometown changed much since you were a child?
+* Is there good public transportation in your hometown?
+* Do you think your hometown is a good place to bring up children?
+## Home
 * Art
 * Birthdays
 * Childhood
@@ -53,22 +63,6 @@
 Main Topics for IELTS Speaking Part 1
 These four topics are the most common in IELTS speaking part 1. You should prepare ideas and practice answering these questions.
 <blockquote><p><strong><span style="text-decoration: underline;">Work</span></strong><br>
-  
-
-
-
-<blockquote><p><strong><span style="text-decoration: underline;">Hometown</span></strong><br>
-Where is your hometown?<br>
-Do you like your hometown?<br>
-Do you often visit your hometown?<br>
-What is your hometown like?<br>
-What is the oldest place in your hometown?<br>
-What is there for a foreigner to do or see in your hometown?<br>
-How could your hometown be improved?<br>
-Has your hometown changed much since you were a child?<br>
-Is there good public transportation in your hometown?<br>
-Do you think your hometown is a good place to bring up children?</p></blockquote>
-<p>&nbsp;</p>
 <blockquote><p><strong><span style="text-decoration: underline;">Home</span></strong><br>
 Where is your home?<br>
 Do you live in a house or a flat?<br>
