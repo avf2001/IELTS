@@ -58,9 +58,9 @@ the best thing about my job
 * What is your position?
   > I am part of the geophysical survey team, I am a geologist.
 * How many hours do you work each day?
-> When I am out in the field work, I spend several hours traveling to the area, then the survey usually lasts for a couple of days, and sometimes – even weeks. When there is no fieldwork, I usually work from 8 am to 5 pm at the office.
+  > When I am out in the field work, I spend several hours traveling to the area, then the survey usually lasts for a couple of days, and sometimes – even weeks. When there is no fieldwork, I usually work from 8 am to 5 pm at the office.
 * What would be your ideal job?
-  > My ideal job is be something that always brings something new to life, not a repetitive monotonous work. I am good at my responsibilities, but I also expect some pleasant moments at my workplace.
+  My ideal job is be something that always brings something new to life, not a repetitive monotonous work. I am good at my responsibilities, but I also expect some pleasant moments at my workplace.
 
 ## Study
 * What do you study?
