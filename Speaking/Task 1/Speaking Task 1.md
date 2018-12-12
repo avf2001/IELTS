@@ -1,5 +1,4 @@
 # Speaking Part 1 Common Topics List
-* [Childhood](#Childhood)
 * [Clothes](#Clothes)
 * [Computers](#Computers)
 * [Daily routine](#Daily-routine)
@@ -29,12 +28,6 @@
 | ~~good, bad~~ |               |
 | ~~like~~ | love, enjoy, prefer |
 
-## Childhood
-* Did you enjoy your childhood?
-* What is your first memory of your childhood?
-* Did you have a lot of friends when you were a child?
-* What did you enjoy doing as a child?
-* Do you think it is better for children to grow up in the city or in the countryside?
 ## Clothes
 * Are clothes important to you?
 * What kind of clothes do you usually wear?
