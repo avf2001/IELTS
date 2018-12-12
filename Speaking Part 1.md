@@ -11,7 +11,17 @@
 * If you had the chance, would you change your job?
 * Do you plan to continue with your job in the future?
 ## Study
-* Hometown
+* What do you study?
+* Where do you study that?
+* Why did you choose that subject?
+* Is it a popular subject in your country?
+* Do you like that subject?
+* Do you get on with your colleagues?
+* What was your first day like?
+* What are the main aspects of your subject?
+* If you had the chance, would you change subject?
+* Do you plan to get a job in the same field as your subject?
+## Hometown
 * Home
 * Art
 * Birthdays
@@ -46,18 +56,7 @@ These four topics are the most common in IELTS speaking part 1. You should prepa
   
 
 
-<blockquote><p><strong><span style="text-decoration: underline;">Study</span></strong><br>
-What do you study?<br>
-Where do you study that?<br>
-Why did you choose that subject?<br>
-Is it a popular subject in your country?<br>
-Do you like that subject?<br>
-Do you get on with your colleagues?<br>
-What was your first day like?<br>
-What are the main aspects of your subject?<br>
-If you had the chance, would you change subject?<br>
-Do you plan to get a job in the same field as your subject?</p></blockquote>
-<p>&nbsp;</p>
+
 <blockquote><p><strong><span style="text-decoration: underline;">Hometown</span></strong><br>
 Where is your hometown?<br>
 Do you like your hometown?<br>
