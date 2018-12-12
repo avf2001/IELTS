@@ -1,3 +1,8 @@
+# Table of Contents
+* [Work](#work)
+* [Study](#study)
+* [Hometown](#hometown)
+
 # Speaking Part 1 Common Topics List
 | Don't use     | Use           |
 | ------------- |:-------------:|
