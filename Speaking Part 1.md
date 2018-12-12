@@ -8,7 +8,7 @@
 * [Childhood](#Childhood)
 * [Clothes](#Clothes)
 * [Computers](#Computers)
-* [Daily routine](#Daily routine)
+* [Daily routine](#Daily-routine)
 * [Dictionaries](#Dictionaries)
 * [Evenings](#Evenings)
 * [Family & Friends](#Family & Friends)
