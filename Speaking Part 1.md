@@ -1,6 +1,16 @@
 # Speaking Part 1 Common Topics List
-* Work
-* Study
+## Work
+* What is your job?
+* Where do you work?
+* Why did you choose that job?
+* Is it a popular job in your country?
+* Do you like your job?
+* Do you get on well with your colleagues?
+* What was your first day like?
+* What responsibilities do you have at work?
+* If you had the chance, would you change your job?
+* Do you plan to continue with your job in the future?
+## Study
 * Hometown
 * Home
 * Art
@@ -33,17 +43,9 @@
 Main Topics for IELTS Speaking Part 1
 These four topics are the most common in IELTS speaking part 1. You should prepare ideas and practice answering these questions.
 <blockquote><p><strong><span style="text-decoration: underline;">Work</span></strong><br>
-What is your job?<br>
-Where do you work?<br>
-Why did you choose that job?<br>
-Is it a popular job in your country?<br>
-Do you like your job?<br>
-Do you get on well with your colleagues?<br>
-What was your first day like?<br>
-What responsibilities do you have at work?<br>
-If you had the chance, would you change your job?<br>
-Do you plan to continue with your job in the future?</p></blockquote>
-<p>&nbsp;</p>
+  
+
+
 <blockquote><p><strong><span style="text-decoration: underline;">Study</span></strong><br>
 What do you study?<br>
 Where do you study that?<br>
