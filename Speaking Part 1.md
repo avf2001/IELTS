@@ -35,6 +35,7 @@
 | ~~good, bad~~ |               |
 | ~~like~~ | love, enjoy, prefer |
 ## Work
+accountable for
 * What is your job?
 * Where do you work?
 * Why did you choose that job?
@@ -43,10 +44,14 @@
 * Do you get on well with your colleagues?
 * What was your first day like?
 * What responsibilities do you have at work?
+> Our team is accountable for identifying if a significant resource is present, as well as to collect and analyze samples within the area of research.
 * If you had the chance, would you change your job?
 * Do you plan to continue with your job in the future?
 * Describe the company or organization you work for.
 > I work for the Energy Development Corporation (EDC); it is a company that focuses on the development of renewable energy.
+* What is your position?
+> I am part of the geophysical survey team, I am a geologist.
+
 ## Study
 * What do you study?
 * Where do you study that?
