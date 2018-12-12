@@ -36,15 +36,17 @@
 | ~~like~~ | love, enjoy, prefer |
 ## Work
 accountable for
+the best thing about my job
 * What is your job?
 * Where do you work?
 * Why did you choose that job?
 * Is it a popular job in your country?
 * Do you like your job?
+> **The best thing about my job** is that I can travel and discover places in which I otherwise would not be able to see.
 * Do you get on well with your colleagues?
 * What was your first day like?
 * What responsibilities do you have at work?
-> Our team is accountable for identifying if a significant resource is present, as well as to collect and analyze samples within the area of research.
+... Our team is accountable for identifying if a significant resource is present, as well as to collect and analyze samples within the area of research.
 * If you had the chance, would you change your job?
 * Do you plan to continue with your job in the future?
 * Describe the company or organization you work for.
