@@ -36,7 +36,9 @@
 | ~~like~~ | love, enjoy, prefer |
 ## Work
 accountable for
+
 the best thing about my job
+
 * What is your job?
 * Where do you work?
 * Why did you choose that job?
