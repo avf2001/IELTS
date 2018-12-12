@@ -1,5 +1,4 @@
 # Speaking Part 1 Common Topics List
-* [Art](#Art)
 * [Birthdays](#Birthdays)
 * [Childhood](#Childhood)
 * [Clothes](#Clothes)
@@ -31,13 +30,6 @@
 | ~~good, bad~~ |               |
 | ~~like~~ | love, enjoy, prefer |
 
-## Art
-* Are you good at art?
-* Did you learn art at school when you were a child?
-* What kind of art do you like?
-* Is art popular in your country?
-* Have you ever been to an art gallery?
-* Do you think children can benefit from going to art galleries?
 ## Birthdays
 * Do you enjoy your birthdays?
 * Do you usually celebrate your birthday?
