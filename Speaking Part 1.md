@@ -49,6 +49,12 @@
 * What is your neighbourhood like?
 * Do most people live in houses in your country?
 ## Art
+* Are you good at art?
+* Did you learn art at school when you were a child?
+* What kind of art do you like?
+* Is art popular in your country?
+* Have you ever been to an art gallery?
+* Do you think children can benefit from going to art galleries?
 ## Birthdays
 ## Childhood
 ## Clothes
@@ -78,14 +84,6 @@
 Main Topics for IELTS Speaking Part 1
 These four topics are the most common in IELTS speaking part 1. You should prepare ideas and practice answering these questions.
 <h1>Common Questions in Speaking Part 1</h1>
-<blockquote><p><strong><span style="text-decoration: underline;">Art</span></strong><br>
-Are you good at art?<br>
-Did you learn art at school when you were a child?<br>
-What kind of art do you like?<br>
-Is art popular in your country?<br>
-Have you ever been to an art gallery?<br>
-Do you think children can benefit from going to art galleries?</p></blockquote>
-<p>&nbsp;</p>
 <blockquote><p><strong><span style="text-decoration: underline;">Birthdays</span></strong><br>
 Do you enjoy your birthdays?<br>
 Do you usually celebrate your birthday?<br>
