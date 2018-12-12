@@ -2,6 +2,8 @@
 * [Work](#work)
 * [Study](#study)
 * [Hometown](#hometown)
+* [Home](#home)
+* [Art](#Art)
 
 | Don't use     | Use           |
 | ------------- |:-------------:|
