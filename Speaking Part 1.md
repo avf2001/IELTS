@@ -1,35 +1,34 @@
-Speaking Part 1 Common Topics List
-
-Work
-Study
-Hometown
-Home
-Art
-Birthdays
-Childhood
-Clothes
-Computers
-Daily routine
-Dictionaries
-Evenings
-Family & Friends
-Flowers
-Food
-Going Out
-Happiness
-Hobbies
-Internet
-Leisure time
-Music
-Neighbours & Neighbourhood
-Newspapers
-Pets
-Reading
-Shopping
-Sport
-TV
-Transport
-Weather
+# Speaking Part 1 Common Topics List
+* Work
+* Study
+* Hometown
+* Home
+* Art
+* Birthdays
+* Childhood
+* Clothes
+* Computers
+* Daily routine
+* Dictionaries
+* Evenings
+* Family & Friends
+* Flowers
+* Food
+* Going Out
+* Happiness
+* Hobbies
+* Internet
+* Leisure time
+* Music
+* Neighbours & Neighbourhood
+* Newspapers
+* Pets
+* Reading
+* Shopping
+* Sport
+* TV
+* Transport
+* Weather
 
 Main Topics for IELTS Speaking Part 1
 These four topics are the most common in IELTS speaking part 1. You should prepare ideas and practice answering these questions.
