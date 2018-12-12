@@ -1,5 +1,4 @@
 # Speaking Part 1 Common Topics List
-* [Computers](#Computers)
 * [Daily routine](#Daily-routine)
 * [Dictionaries](#Dictionaries)
 * [Evenings](#Evenings)
@@ -27,12 +26,6 @@
 | ~~good, bad~~ |               |
 | ~~like~~ | love, enjoy, prefer |
 
-## Computers
-* Do you often use a computer?
-* How do you usually get online?
-* Do you prefer desktops or laptops?
-* What do you use your computer for?
-* Do you think it is important to learn how to use a computer?
 ## Daily routine
 * When do you usually get up in the morning?
 * Do you usually have the same routine every day?
