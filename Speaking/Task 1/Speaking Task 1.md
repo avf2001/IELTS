@@ -1,5 +1,4 @@
 # Speaking Part 1 Common Topics List
-* [Birthdays](#Birthdays)
 * [Childhood](#Childhood)
 * [Clothes](#Clothes)
 * [Computers](#Computers)
@@ -30,13 +29,6 @@
 | ~~good, bad~~ |               |
 | ~~like~~ | love, enjoy, prefer |
 
-## Birthdays
-* Do you enjoy your birthdays?
-* Do you usually celebrate your birthday?
-* What did you do on your last birthday?
-* Can you remember a birthday you enjoyed as a child?
-* Do most people celebrate their birthdays with a party in your country?
-* Which birthdays are considered important in your country?
 ## Childhood
 * Did you enjoy your childhood?
 * What is your first memory of your childhood?
