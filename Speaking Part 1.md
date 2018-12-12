@@ -14,13 +14,13 @@
 * [Family and Friends](#Family-and-Friends)
 * [Flowers](#Flowers)
 * [Food](#Food)
-* [Going Out](#Going Out)
+* [Going Out](#Going-Out)
 * [Happiness](#Happiness)
 * [Hobbies](#Hobbies)
 * [Internet](#Internet)
-* [Leisure time](#Leisure time)
+* [Leisure time](#Leisure-time)
 * [Music](#Music)
-* [Neighbours & Neighbourhood](#Neighbours & Neighbourhood)
+* [Neighbours and Neighbourhood](#Neighbours-and-Neighbourhood)
 * [Newspapers](#Newspapers)
 * [Pets](#Pets)
 * [Reading](#Reading)
@@ -193,7 +193,7 @@ Useful video lesson: <a href="http://ieltsliz.com/ielts-speaking-part-1-dictiona
 * Did you learn music at school?
 * If you could learn a musical instrument, what would it be?
 * Do you think music is important?
-## Neighbours & Neighbourhood
+## Neighbours and Neighbourhood
 * Do you like your neighbours?
 * Are neighbours usually close to each other in your country?
 * What is your neighbourhood like?
