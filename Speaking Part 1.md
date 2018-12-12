@@ -76,62 +76,54 @@
 * Have you ever worn a uniform?
 * Do most people in your country follow fashion?
 ## Computers
+* Do you often use a computer?
+* How do you usually get online?
+* Do you prefer desktops or laptops?
+* What do you use your computer for?
+* Do you think it is important to learn how to use a computer?
 ## Daily routine
+* When do you usually get up in the morning?
+* Do you usually have the same routine every day?
+* What is your daily routine?
+* Do you ever change your routine?
+* Is your routine the same today as it was when you were a child?
+* Do you think it is important to have a daily routine?
 ## Dictionaries
+* Do you often use a dictionary?
+* What do you use dictionaries for?
+* What kinds of dictionaries do you think are most useful?
+* Do you think dictionaries are useful for learning a language?
+* What kind of information can you find in a dictionary?
+Useful video lesson: <a href="http://ieltsliz.com/ielts-speaking-part-1-dictionaries/" target="_blank">Dictionary vocabulary</a>
 ## Evenings
-* Family & Friends
-* Flowers
-* Food
-* Going Out
-* Happiness
-* Hobbies
-* Internet
-* Leisure time
-* Music
-* Neighbours & Neighbourhood
-* Newspapers
-* Pets
-* Reading
-* Shopping
-* Sport
-* TV
-* Transport
-* Weather
+* What do you often do in the evenings?
+* Do you do the same thing every evening?
+* Do you prefer to spend your evenings with family or friends?
+* Do you ever work or study in the evenings?
+* What is a popular activity for young people in your country in the evenings?
+* Do you do the same thing in the evenings as you did when you were a child?
+## Family & Friends
+## Flowers
+## Food
+## Going Out
+## Happiness
+## Hobbies
+## Internet
+## Leisure time
+## Music
+## Neighbours & Neighbourhood
+## Newspapers
+## Pets
+## Reading
+## Shopping
+## Sport
+## TV
+## Transport
+## Weather
 
 Main Topics for IELTS Speaking Part 1
 These four topics are the most common in IELTS speaking part 1. You should prepare ideas and practice answering these questions.
 <h1>Common Questions in Speaking Part 1</h1>
-<blockquote><p><strong><span style="text-decoration: underline;">Computers</span></strong><br>
-Do you often use a computer?<br>
-How do you usually get online?<br>
-Do you prefer desktops or laptops?<br>
-What do you use your computer for?<br>
-Do you think it is important to learn how to use a computer?</p></blockquote>
-<p>&nbsp;</p>
-<blockquote><p><strong><span style="text-decoration: underline;">Daily Routine</span></strong><br>
-When do you usually get up in the morning?<br>
-Do you usually have the same routine every day?<br>
-What is your daily routine?<br>
-Do you ever change your routine?<br>
-Is your routine the same today as it was when you were a child?<br>
-Do you think it is important to have a daily routine?</p></blockquote>
-<p>&nbsp;</p>
-<blockquote><p><span style="text-decoration: underline;"><strong>Dictionaries</strong></span><br>
-Do you often use a dictionary?<br>
-What do you use dictionaries for?<br>
-What kinds of dictionaries do you think are most useful?<br>
-Do you think dictionaries are useful for learning a language?<br>
-What kind of information can you find in a dictionary?<br>
-Useful video lesson: <a href="http://ieltsliz.com/ielts-speaking-part-1-dictionaries/" target="_blank">Dictionary vocabulary</a></p></blockquote>
-<p>&nbsp;</p>
-<blockquote><p><strong><span style="text-decoration: underline;">Evenings</span></strong><br>
-What do you often do in the evenings?<br>
-Do you do the same thing every evening?<br>
-Do you prefer to spend your evenings with family or friends?<br>
-Do you ever work or study in the evenings?<br>
-What is a popular activity for young people in your country in the evenings?<br>
-Do you do the same thing in the evenings as you did when you were a child?</p></blockquote>
-<p>&nbsp;</p>
 <blockquote><p><span style="text-decoration: underline;"><strong>Family &amp; Friends</strong></span><br>
 Do you spend much time with your family?<br>
 Who are you closest to in your family?<br>
