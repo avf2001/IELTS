@@ -45,6 +45,8 @@
 * What responsibilities do you have at work?
 * If you had the chance, would you change your job?
 * Do you plan to continue with your job in the future?
+* Describe the company or organization you work for.
+I work for the Energy Development Corporation (EDC); it is a company that focuses on the development of renewable energy.
 ## Study
 * What do you study?
 * Where do you study that?
