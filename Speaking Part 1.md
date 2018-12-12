@@ -63,7 +63,18 @@
 * Do most people celebrate their birthdays with a party in your country?
 * Which birthdays are considered important in your country?
 ## Childhood
+* Did you enjoy your childhood?
+* What is your first memory of your childhood?
+* Did you have a lot of friends when you were a child?
+* What did you enjoy doing as a child?
+* Do you think it is better for children to grow up in the city or in the countryside?
 ## Clothes
+* Are clothes important to you?
+* What kind of clothes do you usually wear?
+* Do you ever wear the traditional clothes of your country?
+* Where do you usually buy your clothes?
+* Have you ever worn a uniform?
+* Do most people in your country follow fashion?
 ## Computers
 ## Daily routine
 ## Dictionaries
@@ -90,21 +101,6 @@
 Main Topics for IELTS Speaking Part 1
 These four topics are the most common in IELTS speaking part 1. You should prepare ideas and practice answering these questions.
 <h1>Common Questions in Speaking Part 1</h1>
-<blockquote><p><span style="text-decoration: underline;"><strong>Childhood</strong></span><br>
-Did you enjoy your childhood?<br>
-What is your first memory of your childhood?<br>
-Did you have a lot of friends when you were a child?<br>
-What did you enjoy doing as a child?<br>
-Do you think it is better for children to grow up in the city or in the countryside?</p></blockquote>
-<p>&nbsp;</p>
-<blockquote><p><span style="text-decoration: underline;"><strong>Clothes</strong></span><br>
-Are clothes important to you?<br>
-What kind of clothes do you usually wear?<br>
-Do you ever wear the traditional clothes of your country?<br>
-Where do you usually buy your clothes?<br>
-Have you ever worn a uniform?<br>
-Do most people in your country follow fashion?</p></blockquote>
-<p>&nbsp;</p>
 <blockquote><p><strong><span style="text-decoration: underline;">Computers</span></strong><br>
 Do you often use a computer?<br>
 How do you usually get online?<br>
