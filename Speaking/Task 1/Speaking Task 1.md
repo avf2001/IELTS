@@ -1,5 +1,4 @@
 # Speaking Part 1 Common Topics List
-* [Clothes](#Clothes)
 * [Computers](#Computers)
 * [Daily routine](#Daily-routine)
 * [Dictionaries](#Dictionaries)
@@ -28,13 +27,6 @@
 | ~~good, bad~~ |               |
 | ~~like~~ | love, enjoy, prefer |
 
-## Clothes
-* Are clothes important to you?
-* What kind of clothes do you usually wear?
-* Do you ever wear the traditional clothes of your country?
-* Where do you usually buy your clothes?
-* Have you ever worn a uniform?
-* Do most people in your country follow fashion?
 ## Computers
 * Do you often use a computer?
 * How do you usually get online?
