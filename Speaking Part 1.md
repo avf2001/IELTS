@@ -47,7 +47,7 @@ the best thing about my job
 * What was your first day like?
 * What responsibilities do you have at work?
 
-...Our team is **accountable** for identifying if a significant resource is present, as well as to collect and analyze samples within the area of research.
+⋅⋅⋅Our team is **accountable** for identifying if a significant resource is present, as well as to collect and analyze samples within the area of research.
 * If you had the chance, would you change your job?
 * Do you plan to continue with your job in the future?
 * Describe the company or organization you work for.
