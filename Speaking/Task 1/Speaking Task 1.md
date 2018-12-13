@@ -1,5 +1,4 @@
 # Speaking Part 1 Common Topics List
-* [Reading](#Reading)
 * [Shopping](#Shopping)
 * [Sport](#Sport)
 * [TV](#TV)
@@ -11,13 +10,6 @@
 | ~~good, bad~~ |               |
 | ~~like~~ | love, enjoy, prefer |
 
-## Reading
-* Do you often read?
-* What is your favourite kind of book to read?
-* Do you often read newspapers?
-* Do you have any e-books?
-* What books did you read as a child?
-* Do you think it is important to encourage children to read?
 ## Shopping
 * Do you like shopping?
 * What’s your favourite shop?
