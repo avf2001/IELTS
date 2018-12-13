@@ -1,5 +1,4 @@
 # Speaking Part 1 Common Topics List
-* [Music](#Music)
 * [Neighbours and Neighbourhood](#Neighbours-and-Neighbourhood)
 * [Newspapers](#Newspapers)
 * [Pets](#Pets)
@@ -15,13 +14,6 @@
 | ~~good, bad~~ |               |
 | ~~like~~ | love, enjoy, prefer |
 
-## Music
-* Do you like music?
-* What’s your favourite type of music?
-* Can you sing?
-* Did you learn music at school?
-* If you could learn a musical instrument, what would it be?
-* Do you think music is important?
 ## Neighbours and Neighbourhood
 * Do you like your neighbours?
 * Are neighbours usually close to each other in your country?
