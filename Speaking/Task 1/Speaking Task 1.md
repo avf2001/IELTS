@@ -1,5 +1,4 @@
 # Speaking Part 1 Common Topics List
-* [Family and Friends](#Family-and-Friends)
 * [Flowers](#Flowers)
 * [Food](#Food)
 * [Going Out](#Going-Out)
@@ -23,13 +22,6 @@
 | ~~good, bad~~ |               |
 | ~~like~~ | love, enjoy, prefer |
 
-## Family and Friends
-* Do you spend much time with your family?
-* Who are you closest to in your family?
-* Do you prefer spending time with your family or friends?
-* Who is your best friend?
-* Are you still friends with people from your childhood?
-* Is family important in your country?
 ## Flowers
 * Do you like flowers?
 * What’s your favourite flower?
