@@ -1,5 +1,4 @@
 # Speaking Part 1 Common Topics List
-* [Pets](#Pets)
 * [Reading](#Reading)
 * [Shopping](#Shopping)
 * [Sport](#Sport)
@@ -12,13 +11,6 @@
 | ~~good, bad~~ |               |
 | ~~like~~ | love, enjoy, prefer |
 
-## Pets
-* Do you have a pet?
-* Do you like animals?
-* What’s your favourite animal?
-* What is a popular pet to have in your country?
-* Did you have a pet as a child?
-* Why do people have pets?
 ## Reading
 * Do you often read?
 * What is your favourite kind of book to read?
