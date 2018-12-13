@@ -1,5 +1,4 @@
 # Speaking Part 1 Common Topics List
-* [Internet](#Internet)
 * [Leisure time](#Leisure-time)
 * [Music](#Music)
 * [Neighbours and Neighbourhood](#Neighbours-and-Neighbourhood)
@@ -17,13 +16,6 @@
 | ~~good, bad~~ |               |
 | ~~like~~ | love, enjoy, prefer |
 
-## Internet
-* How often do you go online?
-* What do you use the internet for?
-* How do you get online?
-* Do you have your own computer?
-* What’s your favourite website?
-* Do you think children should be allowed unsupervised access to the internet?
 ## Leisure time
 * What is your favourite leisure activity?
 * What did you enjoy doing in your free time as a child?
