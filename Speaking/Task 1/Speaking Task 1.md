@@ -1,5 +1,4 @@
 # Speaking Part 1 Common Topics List
-* [Sport](#Sport)
 * [TV](#TV)
 * [Transport](#Transport)
 * [Weather](#Weather)
@@ -9,13 +8,6 @@
 | ~~good, bad~~ |               |
 | ~~like~~ | love, enjoy, prefer |
 
-## Sport
-* Do you like sport?
-* What’s your favourite sport?
-* Do you often watch sport on TV?
-* Did you play sport as a child?
-* What is the most popular sport in your country?
-* How do most people in your country keep fit?
 ## TV
 * Do you often watch TV?
 * What sorts of things do you watch on TV?
