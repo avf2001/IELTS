@@ -1,5 +1,4 @@
 # Speaking Part 1 Common Topics List
-* [Flowers](#Flowers)
 * [Food](#Food)
 * [Going Out](#Going-Out)
 * [Happiness](#Happiness)
@@ -22,12 +21,6 @@
 | ~~good, bad~~ |               |
 | ~~like~~ | love, enjoy, prefer |
 
-## Flowers
-* Do you like flowers?
-* What’s your favourite flower?
-* When was the last time you gave someone flowers?
-* Do any flowers have a special meaning in your country?
-* Why do you think women like flowers more than men?
 ## Food
 * What’s your favourite food?
 * Have you always liked the same food?
