@@ -1,5 +1,4 @@
 # Speaking Part 1 Common Topics List
-* [Happiness](#Happiness)
 * [Hobbies](#Hobbies)
 * [Internet](#Internet)
 * [Leisure time](#Leisure-time)
@@ -19,12 +18,6 @@
 | ~~good, bad~~ |               |
 | ~~like~~ | love, enjoy, prefer |
 
-## Happiness
-* Are you a happy person?
-* What usually makes you happy?
-* Does the weather ever affect how you feel?
-* What makes you feel unhappy?
-* Do you think people in your country are generally happy people?
 ## Hobbies
 * Do you have a hobby?
 * What equipment do you need for it?
