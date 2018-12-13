@@ -1,5 +1,4 @@
 # Speaking Part 1 Common Topics List
-* [Hobbies](#Hobbies)
 * [Internet](#Internet)
 * [Leisure time](#Leisure-time)
 * [Music](#Music)
@@ -18,13 +17,6 @@
 | ~~good, bad~~ |               |
 | ~~like~~ | love, enjoy, prefer |
 
-## Hobbies
-* Do you have a hobby?
-* What equipment do you need for it?
-* Do you think hobbies should be shared with other people?
-* Did you have a hobby as a child?
-* What hobbies are popular in your country?
-* Why do you think people have hobbies?
 ## Internet
 * How often do you go online?
 * What do you use the internet for?
