@@ -1,5 +1,4 @@
 # Speaking Part 1 Common Topics List
-* [Evenings](#Evenings)
 * [Family and Friends](#Family-and-Friends)
 * [Flowers](#Flowers)
 * [Food](#Food)
@@ -24,13 +23,6 @@
 | ~~good, bad~~ |               |
 | ~~like~~ | love, enjoy, prefer |
 
-## Evenings
-* What do you often do in the evenings?
-* Do you do the same thing every evening?
-* Do you prefer to spend your evenings with family or friends?
-* Do you ever work or study in the evenings?
-* What is a popular activity for young people in your country in the evenings?
-* Do you do the same thing in the evenings as you did when you were a child?
 ## Family and Friends
 * Do you spend much time with your family?
 * Who are you closest to in your family?
