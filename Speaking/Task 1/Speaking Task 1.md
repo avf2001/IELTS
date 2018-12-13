@@ -1,5 +1,4 @@
 # Speaking Part 1 Common Topics List
-* [Food](#Food)
 * [Going Out](#Going-Out)
 * [Happiness](#Happiness)
 * [Hobbies](#Hobbies)
@@ -21,13 +20,6 @@
 | ~~good, bad~~ |               |
 | ~~like~~ | love, enjoy, prefer |
 
-## Food
-* What’s your favourite food?
-* Have you always liked the same food?
-* Is there any food you dislike?
-* What is a common meal in your country?
-* Do you have a healthy diet?
-* What do you think of fast food?
 ## Going Out
 * Do you often go out in the evenings?
 * What do you like to do when you go out?
