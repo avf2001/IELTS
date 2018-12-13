@@ -1,5 +1,4 @@
 # Speaking Part 1 Common Topics List
-* [TV](#TV)
 * [Transport](#Transport)
 * [Weather](#Weather)
 
@@ -8,13 +7,6 @@
 | ~~good, bad~~ |               |
 | ~~like~~ | love, enjoy, prefer |
 
-## TV
-* Do you often watch TV?
-* What sorts of things do you watch on TV?
-* What is your favourite TV program?
-* Do you ever watch foreign programs or films?
-* What did you watch on TV when you were a child?
-* Do you think children should watch TV?
 ## Transport
 * How did you get here today?
 * What is your favourite mode of transport?
