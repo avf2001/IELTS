@@ -1,5 +1,4 @@
 # Speaking Part 1 Common Topics List
-* [Shopping](#Shopping)
 * [Sport](#Sport)
 * [TV](#TV)
 * [Transport](#Transport)
@@ -10,13 +9,6 @@
 | ~~good, bad~~ |               |
 | ~~like~~ | love, enjoy, prefer |
 
-## Shopping
-* Do you like shopping?
-* What’s your favourite shop?
-* Do you prefer shopping alone or with others?
-* What kinds of shops are there where you live?
-* Have you ever bought anything online?
-* Do you think men and women have different opinions about shopping?
 ## Sport
 * Do you like sport?
 * What’s your favourite sport?
