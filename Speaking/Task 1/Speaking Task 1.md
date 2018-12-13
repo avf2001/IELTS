@@ -1,5 +1,4 @@
 # Speaking Part 1 Common Topics List
-* [Going Out](#Going-Out)
 * [Happiness](#Happiness)
 * [Hobbies](#Hobbies)
 * [Internet](#Internet)
@@ -20,12 +19,6 @@
 | ~~good, bad~~ |               |
 | ~~like~~ | love, enjoy, prefer |
 
-## Going Out
-* Do you often go out in the evenings?
-* What do you like to do when you go out?
-* Do you prefer going out on your own or with friends?
-* How often do you go out in a week?
-* Where do most young people like to go out in your country?
 ## Happiness
 * Are you a happy person?
 * What usually makes you happy?
