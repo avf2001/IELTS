@@ -4,9 +4,16 @@
 * **Relieved** (adj): feeling relaxed and happy
 * **Stunning** (adj): very impressive or beautiful
 * **Under stress** (phrase): dealing with something that causes worry or anxiety
+* **I'm (really) into** - мне действительно нравится
+    > You don't know what I'm into.  
+    > Pitchfork is music I'm into.  
+    > I'm into The Godfather 'cause I'm a cinephile.
+* **Gravitate to places** - тяготеть к местам
+* **Soothing** - успокаивающий
+* **Calming** - успокаивающий
 ## Questions
 * Do you like to go to places near water (lakes, rivers or the sea)? 
-    > Yes, I’m really into going to these places. I think it’s easy to understand why most people gravitate to places near water. The main reason is that I can find the water very soothing and calming. Whenever I’m under stress, I just go straight to the lake nearby so that I can feel relieved. Moreover, I am a big swimmer and love being in the water. That was the first sport I mastered as a child and I felt lucky to know how to swim that soon because there is always a feeling of weightlessness and freedom when I’m near open water.
+    > Yes, **I’m really into** going to these places. I think it’s easy to understand why most people **gravitate to places** near water. The main reason is that I can find the water very soothing and calming. Whenever I’m under stress, I just go straight to the lake nearby so that I can feel relieved. Moreover, I am a big swimmer and love being in the water. That was the first sport I mastered as a child and I felt lucky to know how to swim that soon because there is always a feeling of weightlessness and freedom when I’m near open water.
 * What do you like to do there? 
     > Obviously I’d first take some picture. The ocean looks stunning at any time to me. Then I’ll go swimming. There’s no such thing more relaxing than surfing and chasing big waves. Then probably I’ll build some sandcastle or just lie down and enjoy the fresh ambience.
 * What activities would you do if you were spending some leisure time at a beach or near the ocean? 
