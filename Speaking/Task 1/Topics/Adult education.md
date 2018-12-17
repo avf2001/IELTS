@@ -1,6 +1,6 @@
 # Adult education
 ## Vocabulary and Useful Expression
-* **detriment** *(n)*: harm or damage
+* **detriment** *(n)*: harm or damage - ущерб, вред
     > Are you sure that I can follow this diet without detriment to my health?
 * **gratify** *(v)*: to please someone, or to satisfy a wish or need
 * **keep abreast of sth** : to make sure you know all the most recent facts about a subject or situation
