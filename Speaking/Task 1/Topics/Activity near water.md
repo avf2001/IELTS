@@ -17,7 +17,7 @@
 * What do you like to do there? 
     > Obviously I’d first take some picture. The ocean looks stunning at any time to me. Then I’ll go swimming. There’s no such thing more relaxing than surfing and chasing big waves. Then probably I’ll build some sandcastle or just lie down and enjoy the fresh ambience.
 * What activities would you do if you were spending some leisure time at a beach or near the ocean? 
-    > Obviously I’d first take some picture. The oceans looks stunning at any time to me. Then I’ll go swimming. There’s no such thing more relaxing than deepening myself under the water. Then probably I’ll build some sandcastle or just lie down and enjoy the fresh air.
+    > Obviously I’d first take some picture. The ocean looks stunning at any time to me. Then I’ll go swimming. There’s no such thing more relaxing than deepening myself under the water. Then probably I’ll build some sandcastle or just lie down and enjoy the fresh air.
 * Why do some people like water sports? 
     > The first reason I could think of is because of the water. It’s fresh, it’s cool and it’s calming. Water is even believed to have the capability of easing our mind, which might explain why people love swimming. Besides, when it comes to diving, surfing or canoeing, the story is totally different. Extreme sports under the water bring about unforgettable experiences with the nature.
 * Do you think the government should invest money in developing facilities for water sports?
