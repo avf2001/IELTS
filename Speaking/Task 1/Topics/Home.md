@@ -1,4 +1,9 @@
 # Home
+## Vocabulary and Expressions
+* spacious (adj): large and with a lot of space
+* time-consuming (adj): 
+  > A time-consuming task takes a lot of time to do
+  > Producing a dictionary is a very time-consuming job.
 ## Questions
 * Where is your home?
 * Do you live in a house or a flat
@@ -35,12 +40,3 @@
   > Well definitely I’ll spend some me-time there. I study, I chill with my hobbies such as reading, drawing and dancing all by myself. Sometimes I also invite one or two friends to spend time with. We’ll watch some movies together and tell each other endless stories.
 * Are the transport facilities to your home very good? 
   > As I’ve already mentioned, my house locates in a quite neighborhood. After taking the bus I still need to walk for about 5 minutes more to get home. And I also come home quite late at around 6 pm so the traffic is not too crazy.
-
-
-Vocabulary and Useful Expression: 
-spacious (adj): large and with a lot of space
-
-time-consuming (adj): A time-consuming task takes a lot of time to do
-Producing a dictionary is a very time-consuming job.
-
-
