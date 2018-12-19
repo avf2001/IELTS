@@ -1,7 +1,8 @@
 # Birthdays
-* [Vocabulary and Useful Expression](Vocabulary-and-Useful-Expression)
-* [Questions](Questions)
-  * [Do you enjoy your birthdays?](Do-you-enjoy-your-birthdays?)
+* [Vocabulary and Useful Expression](#vocabulary-and-useful-expression)
+* [Questions](#questions)
+  * [Do you enjoy your birthdays?](#do-you-enjoy-your-birthdays)
+  * [Do you usually celebrate your birthday?](#do-you-usually-celebrate-your-birthday)
 ## Vocabulary and Useful Expression
 * adore (v): to like something very much
 * cosmetics (plural noun): substances put on the face or body that are intended to improve its appearance or quality
@@ -18,14 +19,18 @@
 * **majority** *(n)* - the age at which full civil rights are accorded (совершеннолетие)
   > The age of majority in the U.S. is 18.
 ## Questions
-* Do you enjoy your birthdays?
-  > Yes, I do love them. There is so much fun associated with birthdays. You meet people, friends, play, put cakes and then sing birthday songs. We dance and sing and so much more. It is like we become kids once again.
+### Do you enjoy your birthdays?
+**Sample 1**  
+Yes, I do love them. There is so much fun associated with birthdays. You meet people, friends, play, put cakes and then sing birthday songs. We dance and sing and so much more. It is like we become kids once again.
 
-  > I do enjoy  birthdays. Birthdays bring along with them so much positivity and a feeling of freshness. It seems as if it is another chance to be someone else, someone better. You meet friends, enjoy with them, laugh at the silly things done and plan for the great future ahead.
-* Do you usually celebrate your birthday?
-  > Yes, I do. Although it is not very huge party but I make sure that there is a party and that I have all my near and dear ones surrounding me during my birthday.
+**Sample 2**  
+I do enjoy  birthdays. Birthdays bring along with them so much positivity and a feeling of freshness. It seems as if it is another chance to be someone else, someone better. You meet friends, enjoy with them, laugh at the silly things done and plan for the great future ahead.
+### Do you usually celebrate your birthday?
+**Sample 1**  
+Yes, I do. Although it is not very huge party but I make sure that there is a party and that I have all my near and dear ones surrounding me during my birthday.
 
-  > I usually am not a very big birthday fan. I think there should not be any reason to celebrate life and oneself. I am one of those who would give myself or any one else gifts out of the box with no reasons and at any time of the year.
+**Sample 2**  
+I usually am not a very big birthday fan. I think there should not be any reason to celebrate life and oneself. I am one of those who would give myself or any one else gifts out of the box with no reasons and at any time of the year.
 * What did you do on your last birthday?
   > My last birthday, I would say was a very normal one. I went out with my close friends to a near by beach and had lots of fun there. Coming back I enjoyed quality time with my parents.
 * Can you remember a birthday you enjoyed as a child?
