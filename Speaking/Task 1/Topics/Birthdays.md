@@ -3,6 +3,10 @@
 * [Questions](#questions)
   * [Do you enjoy your birthdays?](#do-you-enjoy-your-birthdays)
   * [Do you usually celebrate your birthday?](#do-you-usually-celebrate-your-birthday)
+  * [What did you do on your last birthday?](#what-did-you-do-on-your-last-birthday)
+  * [Can you remember a birthday you enjoyed as a child?](#can-you-remember-a-birthday-you-enjoyed-as-a-child)
+  * [Do most people celebrate their birthdays with a party in your country?](#do-most-people-celebrate-their-birthdays-with-a-party-in-your-country)
+  * [Which birthdays are considered important in your country?](#which-birthdays-are-considered-important-in-your-country)
 ## Vocabulary and Useful Expression
 * adore (v): to like something very much
 * cosmetics (plural noun): substances put on the face or body that are intended to improve its appearance or quality
@@ -31,13 +35,14 @@ Yes, I do. Although it is not very huge party but I make sure that there is a pa
 
 **Sample 2**  
 I usually am not a very big birthday fan. I think there should not be any reason to celebrate life and oneself. I am one of those who would give myself or any one else gifts out of the box with no reasons and at any time of the year.
-* What did you do on your last birthday?
-  > My last birthday, I would say was a very normal one. I went out with my close friends to a near by beach and had lots of fun there. Coming back I enjoyed quality time with my parents.
-* Can you remember a birthday you enjoyed as a child?
+### What did you do on your last birthday?
+**Sample 1**  
+My last birthday, I would say was a very normal one. I went out with my close friends to a near by beach and had lots of fun there. Coming back I enjoyed quality time with my parents.
+### Can you remember a birthday you enjoyed as a child?
   > I still remember my 13th birthday. It started out with no plan and we decided to just have fun within my family members but as it turned out to be, people started coming just like that, some saw my father getting cake and others simply wanted to wish me. It was a surprise of its own kind and we had almost 50 people in the house. It was real fun, meeting people and then opening the gifts.
-* Do most people celebrate their birthdays with a party in your country?
+### Do most people celebrate their birthdays with a party in your country?
   > Yes. No matter a person is rich or poor, there surely is some kind of party going on during a birthday. There are people who are very extravagant and don’t think twice before spending on their birthdays while some make budgets to make sure there is a good party on birthday. Birthdays in my country are often taken as something that brings lot of people together.
-* Which birthdays are considered important in your country?
+### Which birthdays are considered important in your country?
 * How do children celebrate birthdays in your country? 
   > To most children birthday is their biggest celebration, by which they have a birthday cake, a lot of friends and presents. Children in Vietnam is no exception. The party can take place at home or even in class.
 * How did you celebrate your last birthday? 
