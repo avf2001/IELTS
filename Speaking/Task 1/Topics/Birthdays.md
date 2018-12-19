@@ -1,4 +1,7 @@
 # Birthdays
+* [Vocabulary and Useful Expression](Vocabulary-and-Useful-Expression)
+* [Questions](Questions)
+  * [Do you enjoy your birthdays?](Do-you-enjoy-your-birthdays?)
 ## Vocabulary and Useful Expression
 * adore (v): to like something very much
 * cosmetics (plural noun): substances put on the face or body that are intended to improve its appearance or quality
