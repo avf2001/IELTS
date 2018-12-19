@@ -12,6 +12,8 @@
 * spoil – spoilt – spoilt (v): pamper, give someone anything he/ she wants
 * throw a party : organize a party
 * turning point (n): the time when an important change takes place, usually with the result that a situation improves
+* **majority** *(n)* - the age at which full civil rights are accorded (совершеннолетие)
+  > The age of majority in the U.S. is 18.
 ## Questions
 * Do you enjoy your birthdays?
   > Yes, I do love them. There is so much fun associated with birthdays. You meet people, friends, play, put cakes and then sing birthday songs. We dance and sing and so much more. It is like we become kids once again.
