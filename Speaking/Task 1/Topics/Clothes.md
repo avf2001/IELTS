@@ -14,8 +14,27 @@
   * Where do you usually buy your clothes?
   * Have you ever worn a uniform?
   * Do most people in your country follow fashion?
+  * What clothes do you usually like to wear?
+  * Do/did you wear the same clothes at school and at home?
+  * Will you change your clothes when you go home today?
+  * Did you have any special clothes to wear when you where a child?
+  * Did you like them?
+  * Do you think wearing a hat on sunny days is important?
+  * Did you wear a hat as a child? Why?
+  * What is the importance of a hat?
 ## Vocabulary and Useful Expression
 * **drastically** *(adv)*: (especially of actions) severe and sudden or having very noticeable effects
+* aging process (n): becoming or appearing older or elderly
+* complement (v): to add to something in a way that improves it or makes it more attractive
+* decelerate (v): to become or make something become slower
+* detrimental (a): harmful
+* disobedient (a): failing or refusing to obey
+* exposure (to something) (n): the state of being in a place or situation where there is no protection from something harmful or unpleasant
+* radiation (n): powerful and very dangerous rays that are sent out from radioactive substances
+* reluctant (adj): not willing to do something and therefore slow to do it
+* stubborn (a): determined not to change your opinion or attitude
+* sunshade (n): a light umbrella or other object such as an awning, that is used to protect people from hot sun
+* trivial (a): not important or serious
 ## Questions
 ### What type of clones do you like?
 **Sample 1**  
@@ -44,3 +63,19 @@ I think it helps reduce competition in the work or school area. When the workers
 ### Where do you usually buy your clothes?
 ### Have you ever worn a uniform?
 ### Do most people in your country follow fashion?
+### What clothes do you usually like to wear? 
+Well, actually I don't have any instinct for fashion and my look says I'm a laid-back kind of guy. So I usually wear casual clothes. I'm most comfortable wearing jeans, a T-shirt and my flip-flops.
+### Do/did you wear the same clothes at school and at home? 
+Oh, definitely not. I always wore school uniform which was a blue jacket with a white shirt. They were very simple and boring. So when I reached home, I tended to put on my favourite outfits.
+### Will you change your clothes when you go home today? 
+Oh, yes. Formal clothes really make me nervous so when I go home, I take them off and change into my sweatshirts.
+### Did you have any special clothes to wear when you where a child?
+Yes, when I was a child, I needed to wear a uniform at school from primary school all the way to the very last year of high school : it is a tradition in China, so I believe my parents had to follow this tradition too.
+### Did you like them?
+No, I really couldn#t stand the school uniform because the clothes were a bit too old- fashioned : in addition, sometimes I was reluctant to wear them because they were too large. I don’t know why they couldn't be a bit more trendy and colourful like the ones in other countries, like Japan and Australia.
+### Do you think wearing a hat on sunny days is important?
+It is widely understood that radiation from the sun has extreme detrimental impacts on our health, especially our skin which can cause several skin problems ranging from sunburn to cancer. As a result, applying sunscreen or wearing a hat on sunny days to reduce sunlight exposure is crucial. This not only saves you from skin issues but helps to decelerate aging process in general.
+### Did you wear a hat as a child? Why?
+Unfortunately, I was kind of stubborn and disobedient when I was younger, therefore, despite my mother’s warnings, I rarely put on a hat or jacket to cover my skin when playing outside. You don’t usually pay much attention to your physical appearance when you’re a kid, don’t you? Or at least that was what I and most of my friends used to think. However, it’s not too late to start wearing a hat and protect your skin now.
+### What is the importance of a hat?
+Many has considered a hat a trivial piece of clothing for covering purpose only, yet, stylists and designers around the world have turned hats into not only useful but fashionable accessories to meet market’s demands as well. Beside their initial and major function as sunshades, hats are now playing big roles in complementing one’s outfit, making them ones of the most necessary items in every girl’s closet.
