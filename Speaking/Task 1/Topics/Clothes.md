@@ -8,6 +8,12 @@
   * [Compare the materials and lash ions of today’s clothing with those of the past](#compare-the-materials-and-lash-ions-of-todays-clothing-with-those of-the-past)
   * [Do men and women have the same shopping habits when they buy clothes?](#do-men-and-women-have-the-same-shopping-habits-when-they-buy-clothes)
   * [Sometimes factory workers and very often school students have in wear uniforms. What do you think of this?](#sometimes-factory-workers-and-very-often-school-students-have-in-wear-uniforms-what-do-you-think-of-this)
+  * Are clothes important to you?
+  * What kind of clothes do you usually wear?
+  * Do you ever wear the traditional clothes of your country?
+  * Where do you usually buy your clothes?
+  * Have you ever worn a uniform?
+  * Do most people in your country follow fashion?
 ## Vocabulary and Useful Expression
 * **drastically** *(adv)*: (especially of actions) severe and sudden or having very noticeable effects
 ## Questions
