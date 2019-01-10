@@ -4,6 +4,10 @@
 * time-consuming (adj): 
   > A time-consuming task takes a lot of time to do
   > Producing a dictionary is a very time-consuming job.
+* give someone a hand (idiom): to help someone do something
+* historical sites (n): a building that was built in the past
+* hospitality (n): The friendly and generous reception and entertainment of guests, visitors, or strangers
+* to settle down (v): adopt a more steady or secure style of life, especially in a permanent job and home
 ## Questions
 ### Where is your home?
 ### Do you live in a house or a flat
