@@ -20,6 +20,21 @@
 * to share ups and downs (v): together being through good and bad times
 * troublesome (adj): causing difficulty or annoyance
 * taste (n): a preference or liking for something, inclination
+* All over again (idiom): used for saying that you do the whole of something again starting from the beginning, or that the whole of a long process happens again
+* Chill out (phrasal verb): relax
+* Harmonious (adj): having agreement or consensus
+* Humble (adj): having or showing a modest or low estimate of one’s own importance
+* Me-time (phrase): time for one’s self alone
+* Need of Sth/doing Sth (phrase): circumstances in which something is necessary, necessity
+* Suit myself (v): to do exactly what you like/want
+* To be away (adj): to or at a distance from a particular place, person, or thing
+* To do Sth all by one’s self (phrase): to do Sth alone
+* To go a day without Sth/doing Sth (v): to feel not necessary to do Sth on a day
+* To help (SO) do Sth (v): to make it easier or possible for (someone) to do something by offering them one’s services or resources.
+* To make a living (v): to earn enough to support one’s self
+* To share ups and downs (v): together being through good and bad times
+* Torture (n): great physical or mental suffering
+* reunions (n): a social event for a group of people who have not seen each other for a long time
 ## Questions
 ### Where is your home?
 ### Do you live in a house or a flat
