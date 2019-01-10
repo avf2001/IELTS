@@ -93,3 +93,5 @@ From my room, every time I open the window, I can catch sight of the beautiful o
 Since my taste always changes, my favorite color at the moment is black. Although I have just bought some black items recently, black surprisingly suits me. It feels like I become more mature and more mysterious when wearing a black dress. And because it’s one of the basic colors, it’s easy to mix and match with other items of different colors and styles.
 ### What is the most popular colour among your friends? Why is that? 
 To be honest, it’s hard to tell, as it totally depends on their taste. But I guess it’s black because it is simple, yet classy. You know, most of them usually dress themselves up in black in both informal or formal events.
+### Which part of your home do you like the most?
+It’s the dining room where my family spends our time together. Not only lunch or dinner but all our family reunions take place in the dining room where we can enjoy a harmonious atmosphere. We always try to keep the family dinner as something we cannot go a day without, since for us it’s the family bonding that lies behind.
