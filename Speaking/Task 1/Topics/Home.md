@@ -23,7 +23,6 @@
 ## Questions
 ### Where is your home?
 ### Do you live in a house or a flat
-### Who do you live with?
 ### Are there many rooms in your home?
 ### What is your favourite room?
 ### How are the walls decorated?
@@ -33,11 +32,19 @@
 ### What is your neighbourhood like?
 ### Do most people live in houses in your country?
 ### What kind of housing/accommodation do you live in?
+**Sample 1**  
 We live in a pretty spacious apartment in Nanjing. I live on the 8th floor of a high-rise, and its size about 120 square metres. It is a fairly nice place. Our apartment has six rooms - one living room, one kitchen, two bathrooms and another two bedrooms. All of them are well decorated and furnished. There is a big bookshelf beside my brother’s room so that my brother can easily get books to read. In addition, we have a big balcony outside so that we can enjoy eating dinner and having tea there.
+
+**Sample 2**  
+For the past 21 years I have lived in a house with my family. And I think if I can move out and start making a living on my own, I would try my best to have an independent place where I can plan and design a house layout to suit myself since sharing a room or a flat with strangers sounds so troublesome to me.
 ### Which room does your family spend most of the time in? 
 My family spend most of their time in the living room. We like to sit around on a set of comfortable sofas there and chat with each other or watch TV. But when I am free, I prefer to read alone in my room.
-### Who do you live with? 
+### Who do you live with?
+**Sample 1**  
 I live with my mum and dad and my brother. Our apartment is pretty big so there is enough space for everyone. We bought the apartment four years ago. And my brother is in the school near my home, so we won't intend to move in the future.
+
+**Sample 2**  
+I live with my family. There are 5 of us and we all have our own room, which is way more comfortable as the older we grow, the more privacy we need for ourselves. I think our house is big enough for us yet still a warm and cozy place that I call home.
 ### Are the transport facilities to your home very good? 
 We sometimes go out by car because it is not convenient to take a taxi in that area, and it takes nearly 30 minutes to walk to the nearest subway station. So generally speaking, it is not good to go out without a car.
 ### Do you live in a house or a flat? 
