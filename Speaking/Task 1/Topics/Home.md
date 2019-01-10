@@ -8,6 +8,18 @@
 * historical sites (n): a building that was built in the past
 * hospitality (n): The friendly and generous reception and entertainment of guests, visitors, or strangers
 * to settle down (v): adopt a more steady or secure style of life, especially in a permanent job and home
+* catch sight of (phrase): see something
+* dress up (phrase): to put on clothes that are more formal than the clothes you usually wear
+* humble (adj): having or showing a modest or low estimate of one’s own importance
+* suit myself (v): to do exactly what you like/want
+* to afford (v): to be able to financially support/have enough money to pay for Sth
+* to be away (adj): to or at a distance from a particular place, person, or thing
+* to help (SO) do Sth (v): to make it easier or possible for (someone) to do something by offering them one’s services or resources.
+* to make a living (v): to earn enough to support one’s self
+* to mix and match (v): select and combine different but complementary items, such as clothing or pieces of equipment, to form a coordinated set
+* to share ups and downs (v): together being through good and bad times
+* troublesome (adj): causing difficulty or annoyance
+* taste (n): a preference or liking for something, inclination
 ## Questions
 ### Where is your home?
 ### Do you live in a house or a flat
@@ -64,3 +76,13 @@ Actually yes. It has changed enormously. 20 years ago I could barely find tall b
 I would like to ameliorate the infrastructure conditions there so that I can avoid being stuck in the traffic jam during the rush hours.
 ### Describe your hometown. 
 Actually, it is a small province with slightly more than 1 billion people. It has beautiful landscapes with mountains and lakes. However, due to the increasing economy, a number of business, especially in sugarcane, are invested in my hometown that turns it into a promising area.
+### Do you live in a house or an apartment? 
+For the past 21 years I have lived in a house with my family. And I think if I can move out and start making a living on my own, I would try my best to have an independent place where I can plan and design a house layout to suit myself since sharing a room or a flat with strangers sounds so troublesome to me.
+### Can you describe the place where you live? 
+Briefly, my humble house locates in a small and quite street, so coming home to me is like all the craziness happened outside is left behind. Just beside my house stands a big old tree. I have my own room with walls painted violet, which is kinda a peaceful color. Since I spend most of my time staying at home, my room means the whole world to me. It’s like a friend who is always there to share ups and downs with me. So yeah, I would always miss my house, my room whenever I’m away.
+### What can you see from your window? 
+From my room, every time I open the window, I can catch sight of the beautiful old banyan tree casting a long shadow on the ground where children in my town spend their spare time playing badminton with each other. I usually open the window to see them and enjoy the wind and sunshine.
+### What is your favourite colour? 
+Since my taste always changes, my favorite color at the moment is black. Although I have just bought some black items recently, black surprisingly suits me. It feels like I become more mature and more mysterious when wearing a black dress. And because it’s one of the basic colors, it’s easy to mix and match with other items of different colors and styles.
+### What is the most popular colour among your friends? Why is that? 
+To be honest, it’s hard to tell, as it totally depends on their taste. But I guess it’s black because it is simple, yet classy. You know, most of them usually dress themselves up in black in both informal or formal events.
