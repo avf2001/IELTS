@@ -1,16 +1,16 @@
 # Activity near water
 ## Vocabulary and Useful Expression
-* **Ambience** (noun): air, the atmosphere of a place
-* **Relieved** (adj): feeling relaxed and happy
-* **Stunning** (adj): very impressive or beautiful
-* **Under stress** (phrase): dealing with something that causes worry or anxiety
+* **ambience** *(noun)*: air, the atmosphere of a place
+* **relieved** *(adj)*: feeling relaxed and happy
+* **stunning** *(adj)*: very impressive or beautiful
+* **under stress** *(phrase)*: dealing with something that causes worry or anxiety
 * **I'm (really) into** - мне действительно нравится
     > You don't know what I'm into.  
     > Pitchfork is music I'm into.  
     > I'm into The Godfather 'cause I'm a cinephile.
-* **Gravitate to places** - тяготеть к местам
-* **Soothing** - успокаивающий
-* **Calming** - успокаивающий
+* **gravitate to places** - тяготеть к местам
+* **soothing** - успокаивающий
+* **calming** - успокаивающий
 ## Questions
 * Do you like to go to places near water (lakes, rivers or the sea)? 
     > Yes, **I’m really into** going to these places. I think it’s easy to understand why most people **gravitate to places** near water. The main reason is that I can find the water very soothing and calming. Whenever I’m under stress, I just go straight to the lake nearby so that I can feel relieved. Moreover, I am a big swimmer and love being in the water. That was the first sport I mastered as a child and I felt lucky to know how to swim that soon because there is always a feeling of weightlessness and freedom when I’m near open water.
