@@ -20,3 +20,6 @@
 Show you range of vocabulary by changing the examiner's words to your own words.
 > E: Do you have any brothers and sisters?  
 > S: Yes, I've got 3 siblings.
+## Ask for clarification (if needed)
+* I'm sorry, I don't quite understand the question.
+* What do you mean by ... ?
